@@ -9,7 +9,6 @@ GitHub profile.
 ---
 - 2017~2023 **대학교 컴퓨터공학과
 - 2022  소프트웨어 마에스트로 13기
-- 2024  SSAFY 11기
 
 ### ✨ For More Info 👉 [BLOG](https://blog.naver.com/lu-mi) 
 
